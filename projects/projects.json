@@ -1,0 +1,107 @@
+[
+  {
+    "name": "Foodi We",
+    "desc": "All in one SPPU Engineering resources. Built using Java, XML and Firebase.",
+    "image": "sppuprepandroid",
+    "category": "Frontend",
+    "links": {
+      "view": "https://foodiewe-f6004.web.app/",
+      "code": "https://github.com/ashish2125it/Food_app"
+    }
+  },
+ 
+  {
+    "name": "Car Showcase Project",
+    "desc": "Native android app built using Java, XML and Volley dependencies. Provides weather forecast.",
+    "image": "weatherlyandroid",
+    "category": "android",
+    "links": {
+      "view": "https://car-showcase-eight-jade.vercel.app/",
+      "code": "https://car-showcase-eight-jade.vercel.app/"
+    }
+  },
+ 
+  {
+    "name": "Passward Generator",
+    "desc": "he Password Generator instantly creates strong, customizable passwords, ensuring robust security for accounts and sensitive information with simplicity",
+
+
+    "image": "flipkartmern",
+    "category": "mern",
+    "links": {
+      "view": "",
+      "code": "https://github.com/ashish2125it/Password-Generator"
+    }
+  },
+  {
+    "name": "Weather Application",
+    "desc": "The Weather Application provides real-time temperature and humidity updates, detailed forecasts, and customizable alerts for accurate planning and safety measures.",
+    "image": "resumegen",
+    "category": "mern",
+    "links": {
+      "view": "",
+      "code": "https://github.com/ashish2125it/Weather-Application"
+    }
+  },
+  
+  {
+    "name": "Study Notion",
+    "desc": "Study Notion is an ed-tech platform offering various coding courses to enhance your programming skills and advance your career.",
+    "image": "Study Notion",
+    "category": "Full Stack Project",
+    "links": {
+      "view": "https://github.com/jigar-sable/Flipkart-Clone-PHP",
+      "code": "https://github.com/jigar-sable/Flipkart-Clone-PHP"
+    }
+  },
+  {
+    "name": "Admin Panal",
+    "desc": "The admin panel analyzes stock market graphs, stores daily events, and provides insights, aiding in effective market tracking and event management..",
+    "image": "jspro",
+    "category": "basicweb",
+    "links": {
+      "view": "https://github.com/ashish2125it/Admin_Panel",
+      "code": "Admin Panal"
+    }
+  },
+
+   
+
+ 
+  {
+    "name": "Composey Website",
+    "desc": "Simple landing page website built using HTML, CSS, JavaScript and some JavaScript Libraries.",
+    "image": "composey",
+    "category": "basicweb",
+    "links": {
+      "view": "https://composey.netlify.app/",
+      "code": ""
+    }
+  },
+  
+ 
+ 
+  {
+    "name": "Foodicious",
+    "desc": "Basic food website landing page built using HTML, CSS and JavaScript.",
+    "image": "foodicious",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Food Website",
+    "desc": "Basic food website landing page built using HTML, CSS, SASS, Bootstrap and jQuery.",
+    "image": "foodwebsite",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  }
+ 
+
+ 
+]
